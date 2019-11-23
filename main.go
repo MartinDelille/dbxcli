@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dropbox/dbxcli/cmd"
+	"github.com/martindelille/dbxcli/cmd"
 	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
 	"github.com/spf13/cobra"
 )
